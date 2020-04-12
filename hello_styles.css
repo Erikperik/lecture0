@@ -1,0 +1,43 @@
+body{
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+#centersite {
+  width: 500px;
+  margin: auto;
+}
+h1 {
+text-align:center;
+}
+p {
+#font-style:italic;
+}
+.listobjects {
+  font-style: italic;
+}
+ul,ol{
+  text-align: left;
+  display: table;
+  margin: auto;
+}
+#top{
+background-color:#206326;
+height: 80px;
+#margin: 30px;
+padding: 2%;
+border: 3px solid gray;
+}
+table {
+  border: 1px solid black;
+  border-collapse: collapse;
+  width: 75%;
+  margin: auto;
+}
+th,td {
+border: 1px solid gray;
+padding: 3px;
+text-align: center;
+}
+th{
+background-color: lightgreen;
+}
